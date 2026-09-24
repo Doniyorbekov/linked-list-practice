@@ -25,3 +25,20 @@ It then performs several operations such as searching, counting, finding minimum
 ## Technologies
 
 * Python 3
+
+## Example output
+
+```text
+Linked list:
+10 -> 25 -> 7 -> 25 -> 17 -> None
+Find 25: True
+Find 100: False
+Number of nodes: 5
+Maximum: 25
+Minimum: 7
+Sum: 84
+Number of 25: 2
+After deleting first 25:
+10 -> 7 -> 25 -> 17 -> None
+```
+
